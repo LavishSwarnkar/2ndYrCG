@@ -9,3 +9,5 @@
 11. DDA Line Drawing Algo
 12. Bresenham Line Drawing Algo
 13. Midpoint Circle Drawing Algo
+14. Midpoint Ellipse Drawing Algo
+15. Cohen Sutherland Line clipping Algo
